@@ -1,0 +1,25 @@
+{
+    "name": "Jon Church",
+    "linkedin": "www.linkedin.com/in/jon-church-1717471b5",
+    "github": "churchjg",
+    "email": "churchjg283@gmail.com",
+    "resume": "https://docs.google.com/document/d/1X6rwFDDr3KeWHtf2mJf6CPgIeJXIezCP-O12pJynYMk/edit#",
+    "proficientTechnologies": [
+        "Javascript",
+        "HTML/CSS",
+        "JSON",
+        "Node",
+        "Mongodb",
+        "CLI"
+    ],
+    "otherSkills": [
+        "Higher Education",
+        "Microsoft Office",
+        "Leadership"
+    ],
+    "Hobbies": [
+        "Sports",
+        "Cooking",
+        "Reading (Ken Follet is my favorite)"
+    ]
+}
